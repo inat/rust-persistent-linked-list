@@ -1,0 +1,6 @@
+[package]
+name = "rust-persistent-linked-list"
+version = "0.1.0"
+authors = ["inat <inaba1115@gmail.com>"]
+
+[dependencies]
